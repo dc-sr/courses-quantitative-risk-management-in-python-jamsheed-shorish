@@ -41,3 +41,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Value at Risk
+
+```yaml
+type: VideoExercise
+key: 954979cc78
+xp: 50
+```
+
+`@projector_key`
+671891098e34fb4ed7e244d195183e9a
