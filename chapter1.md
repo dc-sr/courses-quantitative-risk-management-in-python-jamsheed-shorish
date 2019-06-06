@@ -44,7 +44,7 @@ This is an example exercise.
 
 ---
 
-## Value at Risk
+## Value at Risk (VaR)
 
 ```yaml
 type: VideoExercise
